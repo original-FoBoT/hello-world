@@ -1,0 +1,1 @@
+this project .exe will display a hello world message (NSIS)
